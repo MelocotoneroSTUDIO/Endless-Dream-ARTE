@@ -1,2 +1,2 @@
-# Endless-Dream-ARTE
-Desarrollando un juego de plataformas y puzles en 3D para móviles y redes sociales, en este repositorio se ubica todo el arte del videojuego.
+# Arte de Endless Dream
+En esta otro repositorio, paralelo al principal, se úbica todo el arte de nuestro juego.
